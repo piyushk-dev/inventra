@@ -109,7 +109,7 @@ A comprehensive, real-time supply chain management system designed for Walmart's
 
 ## 🔧 Installation & Setup
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone <repository-url>
 
@@ -124,6 +124,7 @@ pnpm run build
 
 # Start production server
 pnpm start
-\`\`\`
+
+```
 
 This dashboard represents a comprehensive solution for modern supply chain management, combining real-time data visualization, AI-powered insights, and intuitive user experience to optimize Walmart's logistics operations.
